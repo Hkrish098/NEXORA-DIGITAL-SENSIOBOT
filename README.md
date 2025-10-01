@@ -196,3 +196,12 @@ This project provides a powerful foundation. Here are some exciting directions t
 ### 5. **Knowledge Graph Integration**
 * **What:** The ultimate upgrade. Instead of storing data as unstructured text chunks, use an LLM to parse all documents into a structured knowledge graph of entities and relationships (e.g., `(LumiGlow Bulb) -[has lifespan of]-> (25,000 hours)`).
 * **Why:** This allows for much more complex, multi-hop queries that standard RAG struggles with, such as "Compare the warranty periods and lifespans of all smart light products."
+
+### for mac ##
+to run the requiements if facing error download manually
+"pip install streamlit streamlit-chat langchain langchain-community langchain-google-genai langchain-chroma sentence-transformers rank-bm25 python-dotenv pandas"
+
+and the run :python scripts/ingest.py
+### if face an error for above line
+install :  pip install langchain_huggingface
+then run :  python scripts/ingest.py 

@@ -1,0 +1,15 @@
+TicketID,CustomerName,CustomerEmail,Product,ProblemDescription,Status,DateCreated
+NEX-12345,Arun Kumar,arun.k@example.com,SecureView 5000,The camera will not power on.,Open,2025-09-30 20:35:58
+NEX-12346,Priya Sharma,priya.s@example.com,Thermosmart Pro,The device is not connecting to the Wi-Fi.,Open,2025-09-30 20:35:58
+NEX-12347,Saanvi Reddy,saanvi.r@example.com,SecureView 5000,My SecureView 5000 is broken and not working!,Open,2025-09-30 20:55:10
+NEX-12348,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),How do I get support for a product that is not working?,Open,2025-09-30 21:23:05
+NEX-12349,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),"I have a problem with my LumiGlow bulb, I need support.",Open,2025-09-30 23:27:55
+NEX-12350,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),"I was reading the support manual to fix my broken lightbulb, but what is the warranty on it anyway?",Open,2025-09-30 23:43:47
+NEX-12351,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),"I was reading the support manual to fix my broken lightbulb, but what is the warranty on it anyway?",Open,2025-09-30 23:44:01
+NEX-12352,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),"Before I create a support ticket, can you tell me how to reset the Thermosmart Pro?",Open,2025-09-30 23:44:31
+NEX-12353,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),"I'm trying to follow the support guide to fix my broken lightbulb, but I'm stuck on step 3. Can you clarify it?",Open,2025-09-30 23:53:35
+NEX-12354,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),My Thermosmart Pro is not working. Is this covered by the warranty before I file a support claim?,Open,2025-09-30 23:54:05
+NEX-12355,Arun Kumar (from session),arun.k@example.com (from session),Nexora Device (inferred),My SecureView camera is broken and won't turn on.,Open,2025-10-01 00:09:46
+NEX-12356,krishna,honnikherek.098@gmail.com,SecureView Camera,My SecureView camera is broken and won't turn on.,Open,2025-10-01 16:54:49
+NEX-12357,rama,honnikherek.098@gmail.com,Thermosmart Pro,my thermosmart is not working can i book a ticket for it,Open,2025-10-01 20:55:18
+NEX-12358,krishna,honnikherek.098@gmail.com,Nexora Device,i received a defective bulb,Open,2025-10-01 20:59:52
